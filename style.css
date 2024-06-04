@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+legend{
+    padding: 10px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid gray;
+    font-size: 1em;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+    border: 5px solid;
+}
+
+.email{
+    background-image: url(Image/download.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 40px;
+}
+
+.pass{
+    background-image: url(Image/download\ \(1\).png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 35px;
+}
